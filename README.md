@@ -1,0 +1,1 @@
+# scu-latex-template
