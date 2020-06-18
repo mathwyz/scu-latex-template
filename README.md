@@ -12,9 +12,13 @@
 ### NOTES
 1.在转换的过程中会有些公式暂时不能识别.
 比如$\,$,
+
 2.图片会完美的插入,但是一些图片格式如.ps文件,在latex可以完美的显示,
 但是在word上会显示无法识别.
+
 3.一些不常见的包pandoc无法识别,建议使用常见的包.
+
+4.引用和索引暂时还不支持.
 ## scu-book-template
 ## scu-beamer-template
 ## scu-cv-template
