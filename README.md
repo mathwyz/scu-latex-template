@@ -18,7 +18,16 @@
 
 3.一些不常见的包pandoc无法识别,建议使用常见的包.
 
-4.引用和索引暂时还不支持.
+4.pandoc的交叉引用是用pandoc-crossref来提供的。
+我们可以用cabal来安装
+sudo apt-get update
+sudo apt-get install cabal-install
+sudo cabal update
+sudo cabal install pandoc-crossref
+
+pandoc -o test.docx test.tex
+pandoc test.tex --filter=pandoc-crossref -o test.docx 
+
 ## scu-book-template
 ## scu-beamer-template
 ## scu-cv-template
