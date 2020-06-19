@@ -27,6 +27,9 @@ sudo cabal install pandoc-crossref
 
 pandoc -o test.docx test.tex
 pandoc test.tex --filter=pandoc-crossref -o test.docx 
+安装的过程可能回报错。
+安装需要很多的时间和精力。
+
 
 ## scu-book-template
 ## scu-beamer-template
