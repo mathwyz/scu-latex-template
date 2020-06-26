@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2020.6.16)  26 JUN 2020 14:09
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2020.6.16)  26 JUN 2020 14:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -660,6 +660,14 @@ Package: amsthm 2017/10/31 v2.20.4
 \beamer@dimb=\dimen276
 )
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerouterthemedefault.sty)))
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\\' on input line 9.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\kernel@ifnextchar' on input line 14.
+
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xdvipdfmx.def
 File: l3backend-xdvipdfmx.def 2020-02-03 L3 backend support: xdvipdfmx
 \g__graphics_track_int=\count309
@@ -670,32 +678,32 @@ File: l3backend-xdvipdfmx.def 2020-02-03 L3 backend support: xdvipdfmx
 (./scu-beamer-template.aux)
 \openout1 = `scu-beamer-template.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 1
-1.
+4.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -733,7 +741,7 @@ LaTeX Font Info:    ... okay on input line 11.
 
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box75
-Package hyperref Info: Link coloring OFF on input line 11.
+Package hyperref Info: Link coloring OFF on input line 14.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
@@ -746,56 +754,56 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count312
 )
-LaTeX Info: Redefining \ref on input line 11.
-LaTeX Info: Redefining \pageref on input line 11.
-LaTeX Info: Redefining \nameref on input line 11.
+LaTeX Info: Redefining \ref on input line 14.
+LaTeX Info: Redefining \pageref on input line 14.
+LaTeX Info: Redefining \nameref on input line 14.
 
 (./scu-beamer-template.out) (./scu-beamer-template.out)
 \@outlinefile=\write5
 \openout5 = `scu-beamer-template.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 11.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 14.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 11.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 14.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmr/m/n on input line 11.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 11.
+(Font)                  OT1/cmss/m/n --> TU/lmr/m/n on input line 14.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 14.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/lmss/b/n on input line 11.
+(Font)                  OT1/cmr/bx/n --> TU/lmss/b/n on input line 14.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/lmss/b/n on input line 11.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 11.
+(Font)                  OT1/cmr/bx/n --> TU/lmss/b/n on input line 14.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 14.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 11.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 14.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/m/n on input line 11.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 11.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/m/n on input line 14.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 14.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/lmss/m/it on input line 11.
+(Font)                  OT1/cmr/m/it --> TU/lmss/m/it on input line 14.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/lmss/m/it on input line 11.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 11.
+(Font)                  OT1/cmr/bx/it --> TU/lmss/m/it on input line 14.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 14.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 11.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 14.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 11.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 14.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  TU/lmss/m/n --> TU/lmss/b/n on input line 11.
+(Font)                  TU/lmss/m/n --> TU/lmss/b/n on input line 14.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  TU/lmss/m/it --> TU/lmss/b/it on input line 11.
+(Font)                  TU/lmss/m/it --> TU/lmss/b/it on input line 14.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/b/n --> TU/lmr/b/n on input line 11.
+(Font)                  OT1/cmss/b/n --> TU/lmr/b/n on input line 14.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  TU/lmss/b/n --> TU/lmss/b/n on input line 11.
+(Font)                  TU/lmss/b/n --> TU/lmss/b/n on input line 14.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  TU/lmss/m/n --> TU/lmss/b/n on input line 11.
+(Font)                  TU/lmss/m/n --> TU/lmss/b/n on input line 14.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  TU/lmss/m/it --> TU/lmss/b/it on input line 11.
+(Font)                  TU/lmss/m/it --> TU/lmss/b/it on input line 14.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  TU/lmtt/m/n --> TU/lmtt/b/n on input line 11.
+(Font)                  TU/lmtt/m/n --> TU/lmtt/b/n on input line 14.
 
 (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-basic-dictionary
 -English.dict
@@ -821,23 +829,39 @@ Dictionary: translator-numbers-dictionary, Language: English
 ry-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 ) (./scu-beamer-template.nav)
-! Undefined control sequence.
-<recently read> \maketile 
-                          
-l.15 \end{frame}
-                
-? S
-OK, entering \scrollmode...
 File: png/xiaohui.png Graphic file (type bmp)
 <png/xiaohui.png>
-[1
+ [1
 
 ] (./scu-beamer-template.toc)
 File: png/xiaohui.png Graphic file (type bmp)
 <png/xiaohui.png>
- [2
+
+[2
 
 ]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 26.
+
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 26.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <10.95> not available
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 26.
+LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <8> not available
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 26.
+LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <6> not available
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 26.
+LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <9> not available
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 50.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 File: png/xiaohui.png Graphic file (type bmp)
 <png/xiaohui.png>
  [3
@@ -845,12 +869,66 @@ File: png/xiaohui.png Graphic file (type bmp)
 ]
 File: png/xiaohui.png Graphic file (type bmp)
 <png/xiaohui.png>
- [4
+
+[4]
+File: png/xiaohui.png Graphic file (type bmp)
+<png/xiaohui.png>
+ [5
 
 ]
 File: png/xiaohui.png Graphic file (type bmp)
 <png/xiaohui.png>
- [5
+ [6
+
+]
+File: png/xiaohui.png Graphic file (type bmp)
+<png/xiaohui.png>
+ [7
+
+]
+File: png/xiaohui.png Graphic file (type bmp)
+<png/xiaohui.png>
+ [8
+
+]
+File: png/xiaohui.png Graphic file (type bmp)
+<png/xiaohui.png>
+ [9
+
+]
+File: png/xiaohui.png Graphic file (type bmp)
+<png/xiaohui.png>
+ [10
+
+]
+File: png/xiaohui.png Graphic file (type bmp)
+<png/xiaohui.png>
+ [11
+
+]
+File: png/xiaohui.png Graphic file (type bmp)
+<png/xiaohui.png>
+ [12
+
+]
+File: png/xiaohui.png Graphic file (type bmp)
+<png/xiaohui.png>
+ [13
+
+]
+File: png/xiaohui.png Graphic file (type bmp)
+<png/xiaohui.png>
+ [14
+
+]
+File: png/xiaohui.png Graphic file (type bmp)
+<png/xiaohui.png>
+ [15
+
+]
+File: png/xiaohui.png Graphic file (type bmp)
+<png/xiaohui.png>
+ [16
 
 ]
 \tf@nav=\write6
@@ -862,21 +940,22 @@ File: png/xiaohui.png Graphic file (type bmp)
 \tf@snm=\write8
 \openout8 = `scu-beamer-template.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 41.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 41.
- (./scu-beamer-template.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 41.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 41.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 94.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 94.
+
+(./scu-beamer-template.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 94.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 94.
 Package rerunfilecheck Info: File `scu-beamer-template.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 20464 strings out of 481804
- 370380 string characters out of 5937876
- 616615 words of memory out of 5000000
- 37042 multiletter control sequences out of 15000+600000
- 532746 words of font info for 31 fonts, out of 8000000 for 9000
+ 20678 strings out of 481804
+ 375072 string characters out of 5937876
+ 627457 words of memory out of 5000000
+ 37226 multiletter control sequences out of 15000+600000
+ 537455 words of font info for 56 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 54i,15n,57p,786b,582s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 54i,15n,57p,786b,618s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on scu-beamer-template.pdf (5 pages).
+Output written on scu-beamer-template.pdf (16 pages).
